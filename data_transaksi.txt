@@ -1,0 +1,2 @@
+2025-04-21 21:19:15,Penjualan Hasil Panen,5000000,Pertanian,PEMASUKAN
+2025-04-21 21:19:35,Pembelian pupuk,300000,pertanian,PENGELUARAN
