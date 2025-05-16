@@ -1,5 +1,5 @@
 # 💰 Sistem Manajemen Keuangan
-
+ 
 Sistem Manajemen Keuangan berbasis konsol ini membantu pengguna mencatat, mengelola, dan menganalisis transaksi keuangan secara sederhana namun efektif. Proyek ini dibangun menggunakan Java dan berfokus pada pencatatan pemasukan, pengeluaran, serta pembuatan laporan keuangan.
 
 ---
@@ -73,6 +73,10 @@ Menu utama yang tersedia:
 - `GeneratorLaporan`: Menampilkan laporan dan menghitung saldo.
 - `KonsolUI`: Menyediakan antarmuka pengguna berbasis teks.
 - Interface: Abstraksi dari setiap komponen utama untuk skalabilitas dan pemeliharaan.
+
+Dibuat Oleh Kelompok 13 : 
+Ammar Qurthuby 
+Muhammad Raza Adzani
 
 
 
