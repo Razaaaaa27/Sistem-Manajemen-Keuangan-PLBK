@@ -75,8 +75,8 @@ Menu utama yang tersedia:
 - Interface: Abstraksi dari setiap komponen utama untuk skalabilitas dan pemeliharaan.
 
 Dibuat Oleh Kelompok 13 : 
-Ammar Qurthuby 
-Muhammad Raza Adzani
+- Ammar Qurthuby 
+- Muhammad Raza Adzani
 
 
 
